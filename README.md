@@ -3,8 +3,7 @@
 🎓 Computer Science student  
 🖨️ 3D printing enthusiast — Prusa MK4S & Bambu Lab P1S  
 💻 I code in Java (IntelliJ), sometimes Rust (RustRover), and explore other languages  
-🛡️ Crazy knowledge in cybersecurity 
-
+🛡️ Crazy knowledge in cybersecurity  
 📡 Into FPV drones, electronics, and related tech  
 🏔️ I enjoy mountaineering, via ferratas, and hitting the gym
 
