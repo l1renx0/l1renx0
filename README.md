@@ -5,7 +5,7 @@
 💻 I code in Java (IntelliJ), sometimes Rust (RustRover), and explore other languages  
 🛡️ Crazy knowledge in cybersecurity  
 📡 Into FPV drones, electronics, and related tech  
-🏔️ I enjoy mountaineering, via ferratas, and hitting the gym
+🏔️ I enjoy mountaineering, climbing, via ferratas, and hitting the gym
 
 ---
 
